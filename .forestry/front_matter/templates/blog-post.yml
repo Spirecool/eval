@@ -18,11 +18,7 @@ fields:
   default: ''
   config:
     required: false
-    wysiwyg: false
+    wysiwyg: true
     schema:
-      format: markdown
+      format: html-blocks
   label: texte
-pages:
-- images/article-deux.html
-- images/article-trois.html
-- images/article-un.html

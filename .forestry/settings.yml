@@ -9,7 +9,7 @@ sections:
   label: articles
   create: all
   match: "**/*"
-  new_doc_ext: ".html"
+  new_doc_ext: html
   templates:
   - blog-post
 upload_dir: uploads
