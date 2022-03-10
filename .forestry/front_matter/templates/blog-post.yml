@@ -23,4 +23,5 @@ fields:
       format: markdown
   label: texte
 pages:
+- articles/article-cinq.html
 - articles/article-quatre.html
