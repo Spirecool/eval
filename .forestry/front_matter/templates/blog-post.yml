@@ -22,3 +22,5 @@ fields:
     schema:
       format: markdown
   label: texte
+pages:
+- images/Premier article.md
