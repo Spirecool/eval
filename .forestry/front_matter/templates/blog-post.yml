@@ -1,4 +1,24 @@
 ---
 label: Blog Post
 hide_body: false
-fields: []
+fields:
+- name: article_1
+  type: text
+  config:
+    required: false
+  label: Article 1
+  description: gegze
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+- name: texte
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: texte
