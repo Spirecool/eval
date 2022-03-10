@@ -22,3 +22,5 @@ fields:
     schema:
       format: html-blocks
   label: texte
+pages:
+- articles/article-quatre.html
