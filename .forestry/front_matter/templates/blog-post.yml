@@ -24,4 +24,5 @@ fields:
   label: texte
 pages:
 - images/article-deux.html
+- images/article-trois.html
 - images/article-un.html
